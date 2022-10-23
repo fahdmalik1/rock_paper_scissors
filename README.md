@@ -28,3 +28,8 @@ From the source section drop-down menu, select the Main Branch
 Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The link to the application can be found here 
+
+
+# Credits and Media
+
+The photos and images used in the application to represent rock paper and scissors were all taken from pexels.com and I used the book Eloquent JavaScrit 3rd Edition to understand event listeners and arrow functions.
