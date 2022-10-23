@@ -11,3 +11,9 @@ The game area is easily understandable as there are three clickable images of ei
 # Score board
 
 The score board clearly shows in two columns the score for each player. the player score and the commputer scorre. NB. I am still in the process of implementing the score increment and displaying to the screen.
+
+# Unfixed Bugs
+
+There are quite a few bugs in the application that need addressing as mentioned earlier in the Score board section the score is not displaying on screen or incrementing. The same issue exists for the player choice is not displaying on screen. and also the winner cannot be determined yet as that feature has not yet been implemented. The reason for these bugs is due to time limitations.
+
+However I will have all these features and bugs sorted hopefully in a future update of the application.
